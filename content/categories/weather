@@ -1,0 +1,73 @@
+[
+  {
+    "id": "sunny",
+    "categoryId": "weather",
+    "english": "Sunny",
+    "turkish": "Güneşli",
+    "examples": ["It is sunny today.", "Bugün güneşli."]
+  },
+  {
+    "id": "rainy",
+    "categoryId": "weather",
+    "english": "Rainy",
+    "turkish": "Yağmurlu",
+    "examples": ["It is rainy outside.", "Dışarısı yağmurlu."]
+  },
+  {
+    "id": "cloudy",
+    "categoryId": "weather",
+    "english": "Cloudy",
+    "turkish": "Bulutlu",
+    "examples": ["The sky is cloudy.", "Gökyüzü bulutlu."]
+  },
+  {
+    "id": "windy",
+    "categoryId": "weather",
+    "english": "Windy",
+    "turkish": "Rüzgarlı",
+    "examples": ["It is windy today.", "Bugün rüzgarlı."]
+  },
+  {
+    "id": "snowy",
+    "categoryId": "weather",
+    "english": "Snowy",
+    "turkish": "Karlı",
+    "examples": ["It is snowy in winter.", "Kışın karlı."]
+  },
+  {
+    "id": "hot",
+    "categoryId": "weather",
+    "english": "Hot",
+    "turkish": "Sıcak",
+    "examples": ["Summer is very hot.", "Yaz çok sıcak."]
+  },
+  {
+    "id": "cold",
+    "categoryId": "weather",
+    "english": "Cold",
+    "turkish": "Soğuk",
+    "examples": ["Winter is cold.", "Kış soğuk."]
+  },
+  {
+    "id": "warm",
+    "categoryId": "weather",
+    "english": "Warm",
+    "turkish": "Ilık",
+    "examples": ["Spring weather is warm.", "İlkbahar havası ılık."]
+  },
+  {
+    "id": "cool",
+    "categoryId": "weather",
+    "english": "Cool",
+    "turkish": "Serin",
+    "examples": ["Autumn is cool.", "Sonbahar serin."]
+  },
+  {
+    "id": "stormy",
+    "categoryId": "weather",
+    "english": "Stormy",
+    "turkish": "Fırtınalı",
+    "examples": ["The weather is stormy.", "Hava fırtınalı."]
+  }
+]
+
