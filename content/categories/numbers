@@ -1,0 +1,143 @@
+[
+  {
+    "id": "one",
+    "categoryId": "numbers",
+    "english": "One",
+    "turkish": "Bir",
+    "examples": ["I have one apple.", "Bir elmam var."]
+  },
+  {
+    "id": "two",
+    "categoryId": "numbers",
+    "english": "Two",
+    "turkish": "İki",
+    "examples": ["I see two birds.", "İki kuş görüyorum."]
+  },
+  {
+    "id": "three",
+    "categoryId": "numbers",
+    "english": "Three",
+    "turkish": "Üç",
+    "examples": ["There are three cats.", "Üç kedi var."]
+  },
+  {
+    "id": "four",
+    "categoryId": "numbers",
+    "english": "Four",
+    "turkish": "Dört",
+    "examples": ["I have four books.", "Dört kitabım var."]
+  },
+  {
+    "id": "five",
+    "categoryId": "numbers",
+    "english": "Five",
+    "turkish": "Beş",
+    "examples": ["Five students are in the class.", "Sınıfta beş öğrenci var."]
+  },
+  {
+    "id": "six",
+    "categoryId": "numbers",
+    "english": "Six",
+    "turkish": "Altı",
+    "examples": ["Six flowers are blooming.", "Altı çiçek açıyor."]
+  },
+  {
+    "id": "seven",
+    "categoryId": "numbers",
+    "english": "Seven",
+    "turkish": "Yedi",
+    "examples": ["I count to seven.", "Yediye kadar sayıyorum."]
+  },
+  {
+    "id": "eight",
+    "categoryId": "numbers",
+    "english": "Eight",
+    "turkish": "Sekiz",
+    "examples": ["There are eight chairs.", "Sekiz sandalye var."]
+  },
+  {
+    "id": "nine",
+    "categoryId": "numbers",
+    "english": "Nine",
+    "turkish": "Dokuz",
+    "examples": ["I have nine pencils.", "Dokuz kalemim var."]
+  },
+  {
+    "id": "ten",
+    "categoryId": "numbers",
+    "english": "Ten",
+    "turkish": "On",
+    "examples": ["Ten apples in the basket.", "Sepette on elma."]
+  },
+  {
+    "id": "eleven",
+    "categoryId": "numbers",
+    "english": "Eleven",
+    "turkish": "On bir",
+    "examples": ["It's eleven o'clock.", "Saat on bir."]
+  },
+  {
+    "id": "twelve",
+    "categoryId": "numbers",
+    "english": "Twelve",
+    "turkish": "On iki",
+    "examples": ["Twelve months in a year.", "Bir yılda on iki ay."]
+  },
+  {
+    "id": "thirteen",
+    "categoryId": "numbers",
+    "english": "Thirteen",
+    "turkish": "On üç",
+    "examples": ["I am thirteen years old.", "On üç yaşındayım."]
+  },
+  {
+    "id": "fourteen",
+    "categoryId": "numbers",
+    "english": "Fourteen",
+    "turkish": "On dört",
+    "examples": ["There are fourteen days.", "On dört gün var."]
+  },
+  {
+    "id": "fifteen",
+    "categoryId": "numbers",
+    "english": "Fifteen",
+    "turkish": "On beş",
+    "examples": ["Fifteen minutes later.", "On beş dakika sonra."]
+  },
+  {
+    "id": "sixteen",
+    "categoryId": "numbers",
+    "english": "Sixteen",
+    "turkish": "On altı",
+    "examples": ["I have sixteen books.", "On altı kitabım var."]
+  },
+  {
+    "id": "seventeen",
+    "categoryId": "numbers",
+    "english": "Seventeen",
+    "turkish": "On yedi",
+    "examples": ["Seventeen students in class.", "Sınıfta on yedi öğrenci."]
+  },
+  {
+    "id": "eighteen",
+    "categoryId": "numbers",
+    "english": "Eighteen",
+    "turkish": "On sekiz",
+    "examples": ["I am eighteen years old.", "On sekiz yaşındayım."]
+  },
+  {
+    "id": "nineteen",
+    "categoryId": "numbers",
+    "english": "Nineteen",
+    "turkish": "On dokuz",
+    "examples": ["There are nineteen flowers.", "On dokuz çiçek var."]
+  },
+  {
+    "id": "twenty",
+    "categoryId": "numbers",
+    "english": "Twenty",
+    "turkish": "Yirmi",
+    "examples": ["Twenty fingers and toes.", "Yirmi parmak."]
+  }
+]
+
