@@ -1,0 +1,143 @@
+[
+  {
+    "id": "eat",
+    "categoryId": "actions",
+    "english": "Eat",
+    "turkish": "Yemek",
+    "examples": ["I eat breakfast every morning.", "Her sabah kahvaltı yaparım."]
+  },
+  {
+    "id": "drink",
+    "categoryId": "actions",
+    "english": "Drink",
+    "turkish": "İçmek",
+    "examples": ["I drink water when I am thirsty.", "Susadığımda su içerim."]
+  },
+  {
+    "id": "sleep",
+    "categoryId": "actions",
+    "english": "Sleep",
+    "turkish": "Uyumak",
+    "examples": ["I sleep at night.", "Gece uyurum."]
+  },
+  {
+    "id": "walk",
+    "categoryId": "actions",
+    "english": "Walk",
+    "turkish": "Yürümek",
+    "examples": ["I walk to school every day.", "Her gün okula yürüyorum."]
+  },
+  {
+    "id": "run",
+    "categoryId": "actions",
+    "english": "Run",
+    "turkish": "Koşmak",
+    "examples": ["I run in the park.", "Parkta koşarım."]
+  },
+  {
+    "id": "read",
+    "categoryId": "actions",
+    "english": "Read",
+    "turkish": "Okumak",
+    "examples": ["I read books before bed.", "Yatmadan önce kitap okurum."]
+  },
+  {
+    "id": "write",
+    "categoryId": "actions",
+    "english": "Write",
+    "turkish": "Yazmak",
+    "examples": ["I write in my diary.", "Günlüğüme yazarım."]
+  },
+  {
+    "id": "listen",
+    "categoryId": "actions",
+    "english": "Listen",
+    "turkish": "Dinlemek",
+    "examples": ["I listen to music.", "Müzik dinlerim."]
+  },
+  {
+    "id": "speak",
+    "categoryId": "actions",
+    "english": "Speak",
+    "turkish": "Konuşmak",
+    "examples": ["I speak English and Turkish.", "İngilizce ve Türkçe konuşurum."]
+  },
+  {
+    "id": "watch",
+    "categoryId": "actions",
+    "english": "Watch",
+    "turkish": "İzlemek",
+    "examples": ["I watch movies on weekends.", "Hafta sonları film izlerim."]
+  },
+  {
+    "id": "play",
+    "categoryId": "actions",
+    "english": "Play",
+    "turkish": "Oynamak",
+    "examples": ["Children play in the garden.", "Çocuklar bahçede oynar."]
+  },
+  {
+    "id": "study",
+    "categoryId": "actions",
+    "english": "Study",
+    "turkish": "Çalışmak",
+    "examples": ["I study English every day.", "Her gün İngilizce çalışırım."]
+  },
+  {
+    "id": "work",
+    "categoryId": "actions",
+    "english": "Work",
+    "turkish": "Çalışmak",
+    "examples": ["I work in an office.", "Bir ofiste çalışıyorum."]
+  },
+  {
+    "id": "cook",
+    "categoryId": "actions",
+    "english": "Cook",
+    "turkish": "Pişirmek",
+    "examples": ["I cook dinner every evening.", "Her akşam yemek pişiririm."]
+  },
+  {
+    "id": "clean",
+    "categoryId": "actions",
+    "english": "Clean",
+    "turkish": "Temizlemek",
+    "examples": ["I clean my room on weekends.", "Hafta sonları odamı temizlerim."]
+  },
+  {
+    "id": "wash",
+    "categoryId": "actions",
+    "english": "Wash",
+    "turkish": "Yıkamak",
+    "examples": ["I wash my hands before eating.", "Yemekten önce ellerimi yıkarım."]
+  },
+  {
+    "id": "dress",
+    "categoryId": "actions",
+    "english": "Dress",
+    "turkish": "Giyinmek",
+    "examples": ["I dress quickly in the morning.", "Sabah hızlıca giyinirim."]
+  },
+  {
+    "id": "brush",
+    "categoryId": "actions",
+    "english": "Brush",
+    "turkish": "Fırçalamak",
+    "examples": ["I brush my teeth twice a day.", "Günde iki kez dişlerimi fırçalarım."]
+  },
+  {
+    "id": "shop",
+    "categoryId": "actions",
+    "english": "Shop",
+    "turkish": "Alışveriş yapmak",
+    "examples": ["I shop at the market.", "Marketten alışveriş yaparım."]
+  },
+  {
+    "id": "relax",
+    "categoryId": "actions",
+    "english": "Relax",
+    "turkish": "Dinlenmek",
+    "examples": ["I relax on the sofa.", "Kanepede dinlenirim."]
+  }
+]
+
