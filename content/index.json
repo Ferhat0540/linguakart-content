@@ -1,1 +1,41 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2024-01-15T00:00:00Z",
+  "files": [
+    {
+      "path": "categories/animals.json"
+    },
+    {
+      "path": "categories/numbers.json"
+    },
+    {
+      "path": "categories/food.json"
+    },
+    {
+      "path": "categories/colors.json"
+    },
+    {
+      "path": "categories/family.json"
+    },
+    {
+      "path": "categories/weather.json"
+    },
+    {
+      "path": "categories/body.json"
+    },
+    {
+      "path": "categories/actions.json"
+    },
+    {
+      "path": "categories/time.json"
+    },
+    {
+      "path": "categories/transport.json"
+    },
+    {
+      "path": "categories/household.json"
+    }
+  ]
+}
+
 
