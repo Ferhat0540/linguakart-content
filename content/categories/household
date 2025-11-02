@@ -1,0 +1,115 @@
+[
+  {
+    "id": "table",
+    "categoryId": "household",
+    "english": "Table",
+    "turkish": "Masa",
+    "examples": ["I eat at the table.", "Masada yemek yerim."]
+  },
+  {
+    "id": "chair",
+    "categoryId": "household",
+    "english": "Chair",
+    "turkish": "Sandalye",
+    "examples": ["I sit on the chair.", "Sandalyede otururum."]
+  },
+  {
+    "id": "bed",
+    "categoryId": "household",
+    "english": "Bed",
+    "turkish": "Yatak",
+    "examples": ["I sleep in my bed.", "Yatağımda uyurum."]
+  },
+  {
+    "id": "sofa",
+    "categoryId": "household",
+    "english": "Sofa",
+    "turkish": "Kanepe",
+    "examples": ["I relax on the sofa.", "Kanepede dinlenirim."]
+  },
+  {
+    "id": "lamp",
+    "categoryId": "household",
+    "english": "Lamp",
+    "turkish": "Lamba",
+    "examples": ["The lamp gives light.", "Lamba ışık verir."]
+  },
+  {
+    "id": "window",
+    "categoryId": "household",
+    "english": "Window",
+    "turkish": "Pencere",
+    "examples": ["I look out the window.", "Pencereden dışarı bakıyorum."]
+  },
+  {
+    "id": "door",
+    "categoryId": "household",
+    "english": "Door",
+    "turkish": "Kapı",
+    "examples": ["I open the door.", "Kapıyı açıyorum."]
+  },
+  {
+    "id": "refrigerator",
+    "categoryId": "household",
+    "english": "Refrigerator",
+    "turkish": "Buzdolabı",
+    "examples": ["Food stays fresh in the refrigerator.", "Yiyecekler buzdolabında taze kalır."]
+  },
+  {
+    "id": "television",
+    "categoryId": "household",
+    "english": "Television",
+    "turkish": "Televizyon",
+    "examples": ["I watch television in the evening.", "Akşam televizyon izlerim."]
+  },
+  {
+    "id": "computer",
+    "categoryId": "household",
+    "english": "Computer",
+    "turkish": "Bilgisayar",
+    "examples": ["I work on my computer.", "Bilgisayarımda çalışıyorum."]
+  },
+  {
+    "id": "phone",
+    "categoryId": "household",
+    "english": "Phone",
+    "turkish": "Telefon",
+    "examples": ["I call my friend on the phone.", "Arkadaşımı telefonla ararım."]
+  },
+  {
+    "id": "clock",
+    "categoryId": "household",
+    "english": "Clock",
+    "turkish": "Saat",
+    "examples": ["The clock shows the time.", "Saat zamanı gösterir."]
+  },
+  {
+    "id": "mirror",
+    "categoryId": "household",
+    "english": "Mirror",
+    "turkish": "Ayna",
+    "examples": ["I look in the mirror.", "Aynada kendime bakıyorum."]
+  },
+  {
+    "id": "cupboard",
+    "categoryId": "household",
+    "english": "Cupboard",
+    "turkish": "Dolap",
+    "examples": ["I keep dishes in the cupboard.", "Bulaşıkları dolapta tutarım."]
+  },
+  {
+    "id": "bathroom",
+    "categoryId": "household",
+    "english": "Bathroom",
+    "turkish": "Banyo",
+    "examples": ["I take a shower in the bathroom.", "Banyoda duş alırım."]
+  },
+  {
+    "id": "kitchen",
+    "categoryId": "household",
+    "english": "Kitchen",
+    "turkish": "Mutfak",
+    "examples": ["I cook in the kitchen.", "Mutfakta yemek pişiririm."]
+  }
+]
+
