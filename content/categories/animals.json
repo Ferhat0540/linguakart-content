@@ -1,0 +1,87 @@
+[
+  {
+    "id": "cat",
+    "categoryId": "animals",
+    "english": "Cat",
+    "turkish": "Kedi",
+    "examples": ["The cat is sleeping on the sofa.", "Kedi kanepede uyuyor."]
+  },
+  {
+    "id": "dog",
+    "categoryId": "animals",
+    "english": "Dog",
+    "turkish": "Köpek",
+    "examples": ["The dog is playing in the garden.", "Köpek bahçede oynuyor."]
+  },
+  {
+    "id": "bird",
+    "categoryId": "animals",
+    "english": "Bird",
+    "turkish": "Kuş",
+    "examples": ["The bird is singing in the tree.", "Kuş ağaçta şarkı söylüyor."]
+  },
+  {
+    "id": "fish",
+    "categoryId": "animals",
+    "english": "Fish",
+    "turkish": "Balık",
+    "examples": ["The fish is swimming in the ocean.", "Balık okyanusta yüzüyor."]
+  },
+  {
+    "id": "elephant",
+    "categoryId": "animals",
+    "english": "Elephant",
+    "turkish": "Fil",
+    "examples": ["The elephant is very big.", "Fil çok büyük."]
+  },
+  {
+    "id": "lion",
+    "categoryId": "animals",
+    "english": "Lion",
+    "turkish": "Aslan",
+    "examples": ["The lion is the king of the jungle.", "Aslan ormanın kralıdır."]
+  },
+  {
+    "id": "tiger",
+    "categoryId": "animals",
+    "english": "Tiger",
+    "turkish": "Kaplan",
+    "examples": ["The tiger has black stripes.", "Kaplanın siyah çizgileri var."]
+  },
+  {
+    "id": "bear",
+    "categoryId": "animals",
+    "english": "Bear",
+    "turkish": "Ayı",
+    "examples": ["The bear is sleeping in the cave.", "Ayı mağarada uyuyor."]
+  },
+  {
+    "id": "rabbit",
+    "categoryId": "animals",
+    "english": "Rabbit",
+    "turkish": "Tavşan",
+    "examples": ["The rabbit is hopping in the field.", "Tavşan tarlada zıplıyor."]
+  },
+  {
+    "id": "horse",
+    "categoryId": "animals",
+    "english": "Horse",
+    "turkish": "At",
+    "examples": ["The horse is running fast.", "At hızlı koşuyor."]
+  },
+  {
+    "id": "cow",
+    "categoryId": "animals",
+    "english": "Cow",
+    "turkish": "İnek",
+    "examples": ["The cow is eating grass.", "İnek ot yiyor."]
+  },
+  {
+    "id": "sheep",
+    "categoryId": "animals",
+    "english": "Sheep",
+    "turkish": "Koyun",
+    "examples": ["The sheep is white and fluffy.", "Koyun beyaz ve tüylü."]
+  }
+]
+
