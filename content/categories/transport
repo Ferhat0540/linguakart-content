@@ -1,0 +1,87 @@
+[
+  {
+    "id": "car",
+    "categoryId": "transport",
+    "english": "Car",
+    "turkish": "Araba",
+    "examples": ["I drive my car to work.", "İşe arabamla gidiyorum."]
+  },
+  {
+    "id": "bus",
+    "categoryId": "transport",
+    "english": "Bus",
+    "turkish": "Otobüs",
+    "examples": ["I take the bus to school.", "Okula otobüsle gidiyorum."]
+  },
+  {
+    "id": "train",
+    "categoryId": "transport",
+    "english": "Train",
+    "turkish": "Tren",
+    "examples": ["The train arrives at the station.", "Tren istasyona varıyor."]
+  },
+  {
+    "id": "plane",
+    "categoryId": "transport",
+    "english": "Plane",
+    "turkish": "Uçak",
+    "examples": ["I fly by plane to other countries.", "Diğer ülkelere uçakla gidiyorum."]
+  },
+  {
+    "id": "bicycle",
+    "categoryId": "transport",
+    "english": "Bicycle",
+    "turkish": "Bisiklet",
+    "examples": ["I ride my bicycle in the park.", "Parkta bisiklet sürerim."]
+  },
+  {
+    "id": "motorcycle",
+    "categoryId": "transport",
+    "english": "Motorcycle",
+    "turkish": "Motosiklet",
+    "examples": ["The motorcycle is fast.", "Motosiklet hızlıdır."]
+  },
+  {
+    "id": "boat",
+    "categoryId": "transport",
+    "english": "Boat",
+    "turkish": "Tekne",
+    "examples": ["We sail on a boat.", "Teknede yelken açıyoruz."]
+  },
+  {
+    "id": "taxi",
+    "categoryId": "transport",
+    "english": "Taxi",
+    "turkish": "Taksi",
+    "examples": ["I call a taxi when I am in a hurry.", "Aceleci olduğumda taksi çağırırım."]
+  },
+  {
+    "id": "subway",
+    "categoryId": "transport",
+    "english": "Subway",
+    "turkish": "Metro",
+    "examples": ["The subway is underground.", "Metro yeraltındadır."]
+  },
+  {
+    "id": "truck",
+    "categoryId": "transport",
+    "english": "Truck",
+    "turkish": "Kamyon",
+    "examples": ["The truck carries heavy loads.", "Kamyon ağır yükler taşır."]
+  },
+  {
+    "id": "ship",
+    "categoryId": "transport",
+    "english": "Ship",
+    "turkish": "Gemi",
+    "examples": ["The ship sails across the ocean.", "Gemi okyanusu geçer."]
+  },
+  {
+    "id": "helicopter",
+    "categoryId": "transport",
+    "english": "Helicopter",
+    "turkish": "Helikopter",
+    "examples": ["The helicopter flies in the sky.", "Helikopter gökyüzünde uçar."]
+  }
+]
+
