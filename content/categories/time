@@ -1,0 +1,136 @@
+[
+  {
+    "id": "morning",
+    "categoryId": "time",
+    "english": "Morning",
+    "turkish": "Sabah",
+    "examples": ["Good morning!", "Günaydın!"]
+  },
+  {
+    "id": "afternoon",
+    "categoryId": "time",
+    "english": "Afternoon",
+    "turkish": "Öğleden sonra",
+    "examples": ["Good afternoon!", "İyi günler!"]
+  },
+  {
+    "id": "evening",
+    "categoryId": "time",
+    "english": "Evening",
+    "turkish": "Akşam",
+    "examples": ["Good evening!", "İyi akşamlar!"]
+  },
+  {
+    "id": "night",
+    "categoryId": "time",
+    "english": "Night",
+    "turkish": "Gece",
+    "examples": ["Good night!", "İyi geceler!"]
+  },
+  {
+    "id": "monday",
+    "categoryId": "time",
+    "english": "Monday",
+    "turkish": "Pazartesi",
+    "examples": ["Monday is the first day of the week.", "Pazartesi haftanın ilk günüdür."]
+  },
+  {
+    "id": "tuesday",
+    "categoryId": "time",
+    "english": "Tuesday",
+    "turkish": "Salı",
+    "examples": ["I have a meeting on Tuesday.", "Salı günü toplantım var."]
+  },
+  {
+    "id": "wednesday",
+    "categoryId": "time",
+    "english": "Wednesday",
+    "turkish": "Çarşamba",
+    "examples": ["Wednesday is the middle of the week.", "Çarşamba haftanın ortasıdır."]
+  },
+  {
+    "id": "thursday",
+    "categoryId": "time",
+    "english": "Thursday",
+    "turkish": "Perşembe",
+    "examples": ["I go to the gym on Thursday.", "Perşembe günü spor salonuna giderim."]
+  },
+  {
+    "id": "friday",
+    "categoryId": "time",
+    "english": "Friday",
+    "turkish": "Cuma",
+    "examples": ["Friday is the last working day.", "Cuma son çalışma günüdür."]
+  },
+  {
+    "id": "saturday",
+    "categoryId": "time",
+    "english": "Saturday",
+    "turkish": "Cumartesi",
+    "examples": ["Saturday is a weekend day.", "Cumartesi hafta sonu günüdür."]
+  },
+  {
+    "id": "sunday",
+    "categoryId": "time",
+    "english": "Sunday",
+    "turkish": "Pazar",
+    "examples": ["I rest on Sunday.", "Pazar günü dinlenirim."]
+  },
+  {
+    "id": "today",
+    "categoryId": "time",
+    "english": "Today",
+    "turkish": "Bugün",
+    "examples": ["Today is a beautiful day.", "Bugün güzel bir gün."]
+  },
+  {
+    "id": "tomorrow",
+    "categoryId": "time",
+    "english": "Tomorrow",
+    "turkish": "Yarın",
+    "examples": ["Tomorrow I will visit my friend.", "Yarın arkadaşımı ziyaret edeceğim."]
+  },
+  {
+    "id": "yesterday",
+    "categoryId": "time",
+    "english": "Yesterday",
+    "turkish": "Dün",
+    "examples": ["Yesterday I went to the cinema.", "Dün sinemaya gittim."]
+  },
+  {
+    "id": "hour",
+    "categoryId": "time",
+    "english": "Hour",
+    "turkish": "Saat",
+    "examples": ["One hour has sixty minutes.", "Bir saat altmış dakikadır."]
+  },
+  {
+    "id": "minute",
+    "categoryId": "time",
+    "english": "Minute",
+    "turkish": "Dakika",
+    "examples": ["I will be there in five minutes.", "Beş dakika içinde orada olacağım."]
+  },
+  {
+    "id": "week",
+    "categoryId": "time",
+    "english": "Week",
+    "turkish": "Hafta",
+    "examples": ["A week has seven days.", "Bir hafta yedi gündür."]
+  },
+  {
+    "id": "month",
+    "categoryId": "time",
+    "english": "Month",
+    "turkish": "Ay",
+    "examples": ["This month is January.", "Bu ay Ocak."]
+  },
+  {
+    "id": "year",
+    "categoryId": "time",
+    "english": "Year",
+    "turkish": "Yıl",
+    "examples": ["Next year I will travel.", "Gelecek yıl seyahat edeceğim."]
+  }
+]
+
