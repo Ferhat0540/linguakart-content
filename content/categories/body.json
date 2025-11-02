@@ -1,0 +1,108 @@
+[
+  {
+    "id": "head",
+    "categoryId": "body",
+    "english": "Head",
+    "turkish": "Kafa",
+    "examples": ["I have a headache.", "Başım ağrıyor."]
+  },
+  {
+    "id": "eye",
+    "categoryId": "body",
+    "english": "Eye",
+    "turkish": "Göz",
+    "examples": ["I can see with my eyes.", "Gözlerimle görebiliyorum."]
+  },
+  {
+    "id": "nose",
+    "categoryId": "body",
+    "english": "Nose",
+    "turkish": "Burun",
+    "examples": ["I smell with my nose.", "Burnumla kokluyorum."]
+  },
+  {
+    "id": "mouth",
+    "categoryId": "body",
+    "english": "Mouth",
+    "turkish": "Ağız",
+    "examples": ["I eat with my mouth.", "Ağzımla yiyorum."]
+  },
+  {
+    "id": "hand",
+    "categoryId": "body",
+    "english": "Hand",
+    "turkish": "El",
+    "examples": ["I wave my hand.", "Elimi sallıyorum."]
+  },
+  {
+    "id": "foot",
+    "categoryId": "body",
+    "english": "Foot",
+    "turkish": "Ayak",
+    "examples": ["I walk with my feet.", "Ayaklarımla yürüyorum."]
+  },
+  {
+    "id": "arm",
+    "categoryId": "body",
+    "english": "Arm",
+    "turkish": "Kol",
+    "examples": ["I lift my arm.", "Kolumu kaldırıyorum."]
+  },
+  {
+    "id": "leg",
+    "categoryId": "body",
+    "english": "Leg",
+    "turkish": "Bacak",
+    "examples": ["My leg hurts.", "Bacağım ağrıyor."]
+  },
+  {
+    "id": "shoulder",
+    "categoryId": "body",
+    "english": "Shoulder",
+    "turkish": "Omuz",
+    "examples": ["I carry a bag on my shoulder.", "Omzumda çanta taşıyorum."]
+  },
+  {
+    "id": "knee",
+    "categoryId": "body",
+    "english": "Knee",
+    "turkish": "Diz",
+    "examples": ["I bent my knee.", "Dizimi büktüm."]
+  },
+  {
+    "id": "finger",
+    "categoryId": "body",
+    "english": "Finger",
+    "turkish": "Parmak",
+    "examples": ["I have ten fingers.", "On parmağım var."]
+  },
+  {
+    "id": "toe",
+    "categoryId": "body",
+    "english": "Toe",
+    "turkish": "Ayak parmağı",
+    "examples": ["I have ten toes.", "On ayak parmağım var."]
+  },
+  {
+    "id": "chest",
+    "categoryId": "body",
+    "english": "Chest",
+    "turkish": "Göğüs",
+    "examples": ["My chest hurts when I breathe.", "Nefes alırken göğsüm ağrıyor."]
+  },
+  {
+    "id": "back",
+    "categoryId": "body",
+    "english": "Back",
+    "turkish": "Sırt",
+    "examples": ["My back is straight.", "Sırtım düz."]
+  },
+  {
+    "id": "stomach",
+    "categoryId": "body",
+    "english": "Stomach",
+    "turkish": "Mide",
+    "examples": ["My stomach is full.", "Midem dolu."]
+  }
+]
+
