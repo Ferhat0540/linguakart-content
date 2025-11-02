@@ -1,0 +1,73 @@
+[
+  {
+    "id": "red",
+    "categoryId": "colors",
+    "english": "Red",
+    "turkish": "Kırmızı",
+    "examples": ["Red is the color of roses.", "Kırmızı güllerin rengidir."]
+  },
+  {
+    "id": "blue",
+    "categoryId": "colors",
+    "english": "Blue",
+    "turkish": "Mavi",
+    "examples": ["Blue is the color of the sky.", "Mavi gökyüzünün rengidir."]
+  },
+  {
+    "id": "green",
+    "categoryId": "colors",
+    "english": "Green",
+    "turkish": "Yeşil",
+    "examples": ["Green is the color of grass.", "Yeşil çimenin rengidir."]
+  },
+  {
+    "id": "yellow",
+    "categoryId": "colors",
+    "english": "Yellow",
+    "turkish": "Sarı",
+    "examples": ["Yellow is the color of the sun.", "Sarı güneşin rengidir."]
+  },
+  {
+    "id": "black",
+    "categoryId": "colors",
+    "english": "Black",
+    "turkish": "Siyah",
+    "examples": ["Black is the color of night.", "Siyah gecenin rengidir."]
+  },
+  {
+    "id": "white",
+    "categoryId": "colors",
+    "english": "White",
+    "turkish": "Beyaz",
+    "examples": ["White is the color of snow.", "Beyaz karın rengidir."]
+  },
+  {
+    "id": "purple",
+    "categoryId": "colors",
+    "english": "Purple",
+    "turkish": "Mor",
+    "examples": ["Purple is a royal color.", "Mor kraliyet rengidir."]
+  },
+  {
+    "id": "orange",
+    "categoryId": "colors",
+    "english": "Orange",
+    "turkish": "Turuncu",
+    "examples": ["Orange is the color of oranges.", "Turuncu portakalın rengidir."]
+  },
+  {
+    "id": "pink",
+    "categoryId": "colors",
+    "english": "Pink",
+    "turkish": "Pembe",
+    "examples": ["Pink is a gentle color.", "Pembe yumuşak bir renktir."]
+  },
+  {
+    "id": "brown",
+    "categoryId": "colors",
+    "english": "Brown",
+    "turkish": "Kahverengi",
+    "examples": ["Brown is the color of wood.", "Kahverengi ağacın rengidir."]
+  }
+]
+
