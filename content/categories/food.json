@@ -1,0 +1,108 @@
+[
+  {
+    "id": "apple",
+    "categoryId": "food",
+    "english": "Apple",
+    "turkish": "Elma",
+    "examples": ["I eat an apple every day.", "Her gün bir elma yerim."]
+  },
+  {
+    "id": "bread",
+    "categoryId": "food",
+    "english": "Bread",
+    "turkish": "Ekmek",
+    "examples": ["Fresh bread smells wonderful.", "Taze ekmek harika kokar."]
+  },
+  {
+    "id": "milk",
+    "categoryId": "food",
+    "english": "Milk",
+    "turkish": "Süt",
+    "examples": ["I drink milk for breakfast.", "Kahvaltıda süt içerim."]
+  },
+  {
+    "id": "water",
+    "categoryId": "food",
+    "english": "Water",
+    "turkish": "Su",
+    "examples": ["Water is essential for life.", "Su yaşam için gereklidir."]
+  },
+  {
+    "id": "coffee",
+    "categoryId": "food",
+    "english": "Coffee",
+    "turkish": "Kahve",
+    "examples": ["I love drinking coffee in the morning.", "Sabahları kahve içmeyi seviyorum."]
+  },
+  {
+    "id": "tea",
+    "categoryId": "food",
+    "english": "Tea",
+    "turkish": "Çay",
+    "examples": ["Turkish tea is very popular.", "Türk çayı çok popüler."]
+  },
+  {
+    "id": "rice",
+    "categoryId": "food",
+    "english": "Rice",
+    "turkish": "Pirinç",
+    "examples": ["Rice is a staple food.", "Pirinç temel besindir."]
+  },
+  {
+    "id": "chicken",
+    "categoryId": "food",
+    "english": "Chicken",
+    "turkish": "Tavuk",
+    "examples": ["Grilled chicken is delicious.", "Izgara tavuk lezzetli."]
+  },
+  {
+    "id": "fish",
+    "categoryId": "food",
+    "english": "Fish",
+    "turkish": "Balık",
+    "examples": ["Fish is healthy food.", "Balık sağlıklı besindir."]
+  },
+  {
+    "id": "vegetables",
+    "categoryId": "food",
+    "english": "Vegetables",
+    "turkish": "Sebzeler",
+    "examples": ["Vegetables are good for health.", "Sebzeler sağlık için iyidir."]
+  },
+  {
+    "id": "fruits",
+    "categoryId": "food",
+    "english": "Fruits",
+    "turkish": "Meyveler",
+    "examples": ["Fruits contain vitamins.", "Meyveler vitamin içerir."]
+  },
+  {
+    "id": "pizza",
+    "categoryId": "food",
+    "english": "Pizza",
+    "turkish": "Pizza",
+    "examples": ["Pizza is my favorite food.", "Pizza en sevdiğim yemek."]
+  },
+  {
+    "id": "cake",
+    "categoryId": "food",
+    "english": "Cake",
+    "turkish": "Pasta",
+    "examples": ["Birthday cake is sweet.", "Doğum günü pastası tatlı."]
+  },
+  {
+    "id": "ice_cream",
+    "categoryId": "food",
+    "english": "Ice Cream",
+    "turkish": "Dondurma",
+    "examples": ["Ice cream is cold and sweet.", "Dondurma soğuk ve tatlı."]
+  },
+  {
+    "id": "chocolate",
+    "categoryId": "food",
+    "english": "Chocolate",
+    "turkish": "Çikolata",
+    "examples": ["Dark chocolate is healthy.", "Bitter çikolata sağlıklı."]
+  }
+]
+
