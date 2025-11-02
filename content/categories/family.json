@@ -1,0 +1,59 @@
+[
+  {
+    "id": "mother",
+    "categoryId": "family",
+    "english": "Mother",
+    "turkish": "Anne",
+    "examples": ["My mother loves me very much.", "Annem beni çok seviyor."]
+  },
+  {
+    "id": "father",
+    "categoryId": "family",
+    "english": "Father",
+    "turkish": "Baba",
+    "examples": ["My father works hard.", "Babam çok çalışır."]
+  },
+  {
+    "id": "sister",
+    "categoryId": "family",
+    "english": "Sister",
+    "turkish": "Kız kardeş",
+    "examples": ["My sister is younger than me.", "Kız kardeşim benden küçük."]
+  },
+  {
+    "id": "brother",
+    "categoryId": "family",
+    "english": "Brother",
+    "turkish": "Erkek kardeş",
+    "examples": ["My brother plays football.", "Erkek kardeşim futbol oynar."]
+  },
+  {
+    "id": "grandmother",
+    "categoryId": "family",
+    "english": "Grandmother",
+    "turkish": "Büyükanne",
+    "examples": ["My grandmother tells stories.", "Büyükannem hikaye anlatır."]
+  },
+  {
+    "id": "grandfather",
+    "categoryId": "family",
+    "english": "Grandfather",
+    "turkish": "Büyükbaba",
+    "examples": ["My grandfather is wise.", "Büyükbabam bilgedir."]
+  },
+  {
+    "id": "uncle",
+    "categoryId": "family",
+    "english": "Uncle",
+    "turkish": "Amca/Dayı",
+    "examples": ["My uncle visits us often.", "Amcam bizi sık sık ziyaret eder."]
+  },
+  {
+    "id": "aunt",
+    "categoryId": "family",
+    "english": "Aunt",
+    "turkish": "Hala/Teyze",
+    "examples": ["My aunt bakes delicious cookies.", "Halam lezzetli kurabiye yapar."]
+  }
+]
+
