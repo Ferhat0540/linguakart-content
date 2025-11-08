@@ -1,0 +1,703 @@
+[
+  {
+    "id": "the",
+    "categoryId": "top100",
+    "english": "the",
+    "turkish": "belirli tanımlık",
+    "examples": ["The book is on the table.", "Kitap masanın üzerinde."]
+  },
+  {
+    "id": "be",
+    "categoryId": "top100",
+    "english": "be",
+    "turkish": "olmak",
+    "examples": ["I want to be a teacher.", "Öğretmen olmak istiyorum."]
+  },
+  {
+    "id": "to",
+    "categoryId": "top100",
+    "english": "to",
+    "turkish": "için, -e, -a",
+    "examples": ["I go to school every day.", "Her gün okula giderim."]
+  },
+  {
+    "id": "of",
+    "categoryId": "top100",
+    "english": "of",
+    "turkish": "-in, -ın",
+    "examples": ["The color of the sky is blue.", "Gökyüzünün rengi mavidir."]
+  },
+  {
+    "id": "and",
+    "categoryId": "top100",
+    "english": "and",
+    "turkish": "ve",
+    "examples": ["I like coffee and tea.", "Kahve ve çay severim."]
+  },
+  {
+    "id": "a",
+    "categoryId": "top100",
+    "english": "a",
+    "turkish": "bir",
+    "examples": ["I have a cat.", "Bir kedim var."]
+  },
+  {
+    "id": "in",
+    "categoryId": "top100",
+    "english": "in",
+    "turkish": "içinde, -de, -da",
+    "examples": ["The book is in the bag.", "Kitap çantada."]
+  },
+  {
+    "id": "that",
+    "categoryId": "top100",
+    "english": "that",
+    "turkish": "o, şu",
+    "examples": ["That is my car.", "O benim arabam."]
+  },
+  {
+    "id": "have",
+    "categoryId": "top100",
+    "english": "have",
+    "turkish": "sahip olmak",
+    "examples": ["I have two brothers.", "İki erkek kardeşim var."]
+  },
+  {
+    "id": "i",
+    "categoryId": "top100",
+    "english": "I",
+    "turkish": "ben",
+    "examples": ["I am a student.", "Ben bir öğrenciyim."]
+  },
+  {
+    "id": "it",
+    "categoryId": "top100",
+    "english": "it",
+    "turkish": "o (cansız)",
+    "examples": ["It is raining today.", "Bugün yağmur yağıyor."]
+  },
+  {
+    "id": "for",
+    "categoryId": "top100",
+    "english": "for",
+    "turkish": "için",
+    "examples": ["This gift is for you.", "Bu hediye senin için."]
+  },
+  {
+    "id": "not",
+    "categoryId": "top100",
+    "english": "not",
+    "turkish": "değil",
+    "examples": ["I am not tired.", "Yorgun değilim."]
+  },
+  {
+    "id": "on",
+    "categoryId": "top100",
+    "english": "on",
+    "turkish": "üzerinde, -de, -da",
+    "examples": ["The book is on the table.", "Kitap masanın üzerinde."]
+  },
+  {
+    "id": "with",
+    "categoryId": "top100",
+    "english": "with",
+    "turkish": "ile, birlikte",
+    "examples": ["I go to school with my friend.", "Arkadaşımla okula giderim."]
+  },
+  {
+    "id": "he",
+    "categoryId": "top100",
+    "english": "he",
+    "turkish": "o (erkek)",
+    "examples": ["He is my brother.", "O benim erkek kardeşim."]
+  },
+  {
+    "id": "as",
+    "categoryId": "top100",
+    "english": "as",
+    "turkish": "olarak, gibi",
+    "examples": ["As a teacher, I love my job.", "Bir öğretmen olarak işimi seviyorum."]
+  },
+  {
+    "id": "you",
+    "categoryId": "top100",
+    "english": "you",
+    "turkish": "sen, siz",
+    "examples": ["You are very kind.", "Çok naziksiniz."]
+  },
+  {
+    "id": "do",
+    "categoryId": "top100",
+    "english": "do",
+    "turkish": "yapmak",
+    "examples": ["What do you do?", "Ne yapıyorsun?"]
+  },
+  {
+    "id": "at",
+    "categoryId": "top100",
+    "english": "at",
+    "turkish": "-de, -da, -te, -ta",
+    "examples": ["I am at home.", "Evdeyim."]
+  },
+  {
+    "id": "this",
+    "categoryId": "top100",
+    "english": "this",
+    "turkish": "bu",
+    "examples": ["This is my book.", "Bu benim kitabım."]
+  },
+  {
+    "id": "but",
+    "categoryId": "top100",
+    "english": "but",
+    "turkish": "ama, fakat",
+    "examples": ["I want to go, but I am busy.", "Gitmek istiyorum ama meşgulüm."]
+  },
+  {
+    "id": "his",
+    "categoryId": "top100",
+    "english": "his",
+    "turkish": "onun (erkek)",
+    "examples": ["This is his car.", "Bu onun arabası."]
+  },
+  {
+    "id": "by",
+    "categoryId": "top100",
+    "english": "by",
+    "turkish": "tarafından, ile",
+    "examples": ["The book was written by him.", "Kitap onun tarafından yazıldı."]
+  },
+  {
+    "id": "from",
+    "categoryId": "top100",
+    "english": "from",
+    "turkish": "-den, -dan",
+    "examples": ["I come from Turkey.", "Türkiye'den geliyorum."]
+  },
+  {
+    "id": "they",
+    "categoryId": "top100",
+    "english": "they",
+    "turkish": "onlar",
+    "examples": ["They are my friends.", "Onlar benim arkadaşlarım."]
+  },
+  {
+    "id": "we",
+    "categoryId": "top100",
+    "english": "we",
+    "turkish": "biz",
+    "examples": ["We go to school together.", "Birlikte okula gideriz."]
+  },
+  {
+    "id": "say",
+    "categoryId": "top100",
+    "english": "say",
+    "turkish": "söylemek",
+    "examples": ["What did you say?", "Ne söyledin?"]
+  },
+  {
+    "id": "her",
+    "categoryId": "top100",
+    "english": "her",
+    "turkish": "onun (kadın), ona",
+    "examples": ["This is her book.", "Bu onun kitabı."]
+  },
+  {
+    "id": "she",
+    "categoryId": "top100",
+    "english": "she",
+    "turkish": "o (kadın)",
+    "examples": ["She is my sister.", "O benim kız kardeşim."]
+  },
+  {
+    "id": "or",
+    "categoryId": "top100",
+    "english": "or",
+    "turkish": "veya, ya da",
+    "examples": ["Do you want tea or coffee?", "Çay mı yoksa kahve mi istersin?"]
+  },
+  {
+    "id": "an",
+    "categoryId": "top100",
+    "english": "an",
+    "turkish": "bir (ünlü ile)",
+    "examples": ["I have an apple.", "Bir elmam var."]
+  },
+  {
+    "id": "will",
+    "categoryId": "top100",
+    "english": "will",
+    "turkish": "olacak, -ecek",
+    "examples": ["I will go tomorrow.", "Yarın gideceğim."]
+  },
+  {
+    "id": "my",
+    "categoryId": "top100",
+    "english": "my",
+    "turkish": "benim",
+    "examples": ["This is my house.", "Bu benim evim."]
+  },
+  {
+    "id": "one",
+    "categoryId": "top100",
+    "english": "one",
+    "turkish": "bir, bir tane",
+    "examples": ["I have one cat.", "Bir kedim var."]
+  },
+  {
+    "id": "all",
+    "categoryId": "top100",
+    "english": "all",
+    "turkish": "hepsi, tümü",
+    "examples": ["All students are here.", "Tüm öğrenciler burada."]
+  },
+  {
+    "id": "would",
+    "categoryId": "top100",
+    "english": "would",
+    "turkish": "olurdu, -erdi",
+    "examples": ["I would like some tea.", "Biraz çay isterim."]
+  },
+  {
+    "id": "there",
+    "categoryId": "top100",
+    "english": "there",
+    "turkish": "orada, orası",
+    "examples": ["There is a book on the table.", "Masanın üzerinde bir kitap var."]
+  },
+  {
+    "id": "their",
+    "categoryId": "top100",
+    "english": "their",
+    "turkish": "onların",
+    "examples": ["This is their house.", "Bu onların evi."]
+  },
+  {
+    "id": "what",
+    "categoryId": "top100",
+    "english": "what",
+    "turkish": "ne",
+    "examples": ["What is your name?", "Adın ne?"]
+  },
+  {
+    "id": "so",
+    "categoryId": "top100",
+    "english": "so",
+    "turkish": "bu yüzden, öyle",
+    "examples": ["I was tired, so I went to bed.", "Yorgundum, bu yüzden yattım."]
+  },
+  {
+    "id": "up",
+    "categoryId": "top100",
+    "english": "up",
+    "turkish": "yukarı",
+    "examples": ["Look up at the sky.", "Gökyüzüne yukarı bak."]
+  },
+  {
+    "id": "out",
+    "categoryId": "top100",
+    "english": "out",
+    "turkish": "dışarı, dışında",
+    "examples": ["I go out every day.", "Her gün dışarı çıkarım."]
+  },
+  {
+    "id": "if",
+    "categoryId": "top100",
+    "english": "if",
+    "turkish": "eğer",
+    "examples": ["If it rains, I will stay home.", "Eğer yağmur yağarsa, evde kalacağım."]
+  },
+  {
+    "id": "about",
+    "categoryId": "top100",
+    "english": "about",
+    "turkish": "hakkında, yaklaşık",
+    "examples": ["Tell me about yourself.", "Bana kendinden bahset."]
+  },
+  {
+    "id": "who",
+    "categoryId": "top100",
+    "english": "who",
+    "turkish": "kim",
+    "examples": ["Who is that?", "O kim?"]
+  },
+  {
+    "id": "get",
+    "categoryId": "top100",
+    "english": "get",
+    "turkish": "almak, elde etmek",
+    "examples": ["I get up early.", "Erken kalkarım."]
+  },
+  {
+    "id": "which",
+    "categoryId": "top100",
+    "english": "which",
+    "turkish": "hangi",
+    "examples": ["Which book do you want?", "Hangi kitabı istiyorsun?"]
+  },
+  {
+    "id": "go",
+    "categoryId": "top100",
+    "english": "go",
+    "turkish": "gitmek",
+    "examples": ["I go to school.", "Okula giderim."]
+  },
+  {
+    "id": "me",
+    "categoryId": "top100",
+    "english": "me",
+    "turkish": "beni, bana",
+    "examples": ["Give it to me.", "Onu bana ver."]
+  },
+  {
+    "id": "when",
+    "categoryId": "top100",
+    "english": "when",
+    "turkish": "ne zaman",
+    "examples": ["When do you come?", "Ne zaman geliyorsun?"]
+  },
+  {
+    "id": "make",
+    "categoryId": "top100",
+    "english": "make",
+    "turkish": "yapmak",
+    "examples": ["I make breakfast every morning.", "Her sabah kahvaltı yaparım."]
+  },
+  {
+    "id": "can",
+    "categoryId": "top100",
+    "english": "can",
+    "turkish": "yapabilmek, -ebilmek",
+    "examples": ["I can speak English.", "İngilizce konuşabilirim."]
+  },
+  {
+    "id": "like",
+    "categoryId": "top100",
+    "english": "like",
+    "turkish": "sevmek, beğenmek",
+    "examples": ["I like coffee.", "Kahve severim."]
+  },
+  {
+    "id": "time",
+    "categoryId": "top100",
+    "english": "time",
+    "turkish": "zaman",
+    "examples": ["What time is it?", "Saat kaç?"]
+  },
+  {
+    "id": "no",
+    "categoryId": "top100",
+    "english": "no",
+    "turkish": "hayır, yok",
+    "examples": ["No, I don't want it.", "Hayır, istemiyorum."]
+  },
+  {
+    "id": "just",
+    "categoryId": "top100",
+    "english": "just",
+    "turkish": "sadece, henüz",
+    "examples": ["I just arrived.", "Henüz geldim."]
+  },
+  {
+    "id": "him",
+    "categoryId": "top100",
+    "english": "him",
+    "turkish": "onu, ona (erkek)",
+    "examples": ["I see him every day.", "Onu her gün görüyorum."]
+  },
+  {
+    "id": "know",
+    "categoryId": "top100",
+    "english": "know",
+    "turkish": "bilmek",
+    "examples": ["I know him well.", "Onu iyi tanıyorum."]
+  },
+  {
+    "id": "take",
+    "categoryId": "top100",
+    "english": "take",
+    "turkish": "almak, götürmek",
+    "examples": ["Take this book.", "Bu kitabı al."]
+  },
+  {
+    "id": "people",
+    "categoryId": "top100",
+    "english": "people",
+    "turkish": "insanlar",
+    "examples": ["Many people came.", "Birçok insan geldi."]
+  },
+  {
+    "id": "into",
+    "categoryId": "top100",
+    "english": "into",
+    "turkish": "içine",
+    "examples": ["I go into the room.", "Odaya giriyorum."]
+  },
+  {
+    "id": "year",
+    "categoryId": "top100",
+    "english": "year",
+    "turkish": "yıl",
+    "examples": ["This year is 2024.", "Bu yıl 2024."]
+  },
+  {
+    "id": "your",
+    "categoryId": "top100",
+    "english": "your",
+    "turkish": "senin, sizin",
+    "examples": ["This is your book.", "Bu senin kitabın."]
+  },
+  {
+    "id": "good",
+    "categoryId": "top100",
+    "english": "good",
+    "turkish": "iyi",
+    "examples": ["This is a good book.", "Bu iyi bir kitap."]
+  },
+  {
+    "id": "some",
+    "categoryId": "top100",
+    "english": "some",
+    "turkish": "bazı, biraz",
+    "examples": ["I want some water.", "Biraz su istiyorum."]
+  },
+  {
+    "id": "could",
+    "categoryId": "top100",
+    "english": "could",
+    "turkish": "yapabilirdi, -ebilirdi",
+    "examples": ["I could help you.", "Sana yardım edebilirim."]
+  },
+  {
+    "id": "them",
+    "categoryId": "top100",
+    "english": "them",
+    "turkish": "onları, onlara",
+    "examples": ["I see them every day.", "Onları her gün görüyorum."]
+  },
+  {
+    "id": "see",
+    "categoryId": "top100",
+    "english": "see",
+    "turkish": "görmek",
+    "examples": ["I see you tomorrow.", "Yarın görüşürüz."]
+  },
+  {
+    "id": "other",
+    "categoryId": "top100",
+    "english": "other",
+    "turkish": "diğer, başka",
+    "examples": ["I want the other book.", "Diğer kitabı istiyorum."]
+  },
+  {
+    "id": "than",
+    "categoryId": "top100",
+    "english": "than",
+    "turkish": "-den daha",
+    "examples": ["I am taller than you.", "Senden daha uzunum."]
+  },
+  {
+    "id": "then",
+    "categoryId": "top100",
+    "english": "then",
+    "turkish": "sonra, o zaman",
+    "examples": ["First study, then play.", "Önce çalış, sonra oyna."]
+  },
+  {
+    "id": "now",
+    "categoryId": "top100",
+    "english": "now",
+    "turkish": "şimdi",
+    "examples": ["I am here now.", "Şimdi buradayım."]
+  },
+  {
+    "id": "look",
+    "categoryId": "top100",
+    "english": "look",
+    "turkish": "bakmak",
+    "examples": ["Look at that!", "Şuna bak!"]
+  },
+  {
+    "id": "only",
+    "categoryId": "top100",
+    "english": "only",
+    "turkish": "sadece",
+    "examples": ["I have only one book.", "Sadece bir kitabım var."]
+  },
+  {
+    "id": "come",
+    "categoryId": "top100",
+    "english": "come",
+    "turkish": "gelmek",
+    "examples": ["Come here!", "Buraya gel!"]
+  },
+  {
+    "id": "its",
+    "categoryId": "top100",
+    "english": "its",
+    "turkish": "onun (cansız)",
+    "examples": ["The cat licked its paw.", "Kedi pençesini yaladı."]
+  },
+  {
+    "id": "over",
+    "categoryId": "top100",
+    "english": "over",
+    "turkish": "üzerinde, üzerine",
+    "examples": ["The bridge is over the river.", "Köprü nehrin üzerinde."]
+  },
+  {
+    "id": "think",
+    "categoryId": "top100",
+    "english": "think",
+    "turkish": "düşünmek",
+    "examples": ["I think you are right.", "Haklı olduğunu düşünüyorum."]
+  },
+  {
+    "id": "also",
+    "categoryId": "top100",
+    "english": "also",
+    "turkish": "ayrıca, da",
+    "examples": ["I also want coffee.", "Ben de kahve istiyorum."]
+  },
+  {
+    "id": "back",
+    "categoryId": "top100",
+    "english": "back",
+    "turkish": "geri, arka",
+    "examples": ["Come back tomorrow.", "Yarın geri gel."]
+  },
+  {
+    "id": "after",
+    "categoryId": "top100",
+    "english": "after",
+    "turkish": "sonra",
+    "examples": ["I will call you after dinner.", "Akşam yemeğinden sonra seni arayacağım."]
+  },
+  {
+    "id": "use",
+    "categoryId": "top100",
+    "english": "use",
+    "turkish": "kullanmak",
+    "examples": ["I use my phone every day.", "Her gün telefonumu kullanırım."]
+  },
+  {
+    "id": "two",
+    "categoryId": "top100",
+    "english": "two",
+    "turkish": "iki",
+    "examples": ["I have two cats.", "İki kedim var."]
+  },
+  {
+    "id": "how",
+    "categoryId": "top100",
+    "english": "how",
+    "turkish": "nasıl",
+    "examples": ["How are you?", "Nasılsın?"]
+  },
+  {
+    "id": "our",
+    "categoryId": "top100",
+    "english": "our",
+    "turkish": "bizim",
+    "examples": ["This is our house.", "Bu bizim evimiz."]
+  },
+  {
+    "id": "work",
+    "categoryId": "top100",
+    "english": "work",
+    "turkish": "çalışmak, iş",
+    "examples": ["I work in a school.", "Bir okulda çalışıyorum."]
+  },
+  {
+    "id": "first",
+    "categoryId": "top100",
+    "english": "first",
+    "turkish": "ilk, birinci",
+    "examples": ["This is my first time.", "Bu benim ilk seferim."]
+  },
+  {
+    "id": "well",
+    "categoryId": "top100",
+    "english": "well",
+    "turkish": "iyi, iyi bir şekilde",
+    "examples": ["I feel well today.", "Bugün kendimi iyi hissediyorum."]
+  },
+  {
+    "id": "way",
+    "categoryId": "top100",
+    "english": "way",
+    "turkish": "yol, yöntem",
+    "examples": ["This is the way to school.", "Bu okula giden yol."]
+  },
+  {
+    "id": "even",
+    "categoryId": "top100",
+    "english": "even",
+    "turkish": "bile, hatta",
+    "examples": ["Even I can do it.", "Ben bile yapabilirim."]
+  },
+  {
+    "id": "new",
+    "categoryId": "top100",
+    "english": "new",
+    "turkish": "yeni",
+    "examples": ["This is a new book.", "Bu yeni bir kitap."]
+  },
+  {
+    "id": "want",
+    "categoryId": "top100",
+    "english": "want",
+    "turkish": "istemek",
+    "examples": ["I want some water.", "Biraz su istiyorum."]
+  },
+  {
+    "id": "because",
+    "categoryId": "top100",
+    "english": "because",
+    "turkish": "çünkü",
+    "examples": ["I am happy because I passed the exam.", "Sınavı geçtiğim için mutluyum."]
+  },
+  {
+    "id": "any",
+    "categoryId": "top100",
+    "english": "any",
+    "turkish": "herhangi bir",
+    "examples": ["Do you have any questions?", "Herhangi bir sorunuz var mı?"]
+  },
+  {
+    "id": "these",
+    "categoryId": "top100",
+    "english": "these",
+    "turkish": "bunlar",
+    "examples": ["These are my books.", "Bunlar benim kitaplarım."]
+  },
+  {
+    "id": "give",
+    "categoryId": "top100",
+    "english": "give",
+    "turkish": "vermek",
+    "examples": ["Give me the book.", "Bana kitabı ver."]
+  },
+  {
+    "id": "day",
+    "categoryId": "top100",
+    "english": "day",
+    "turkish": "gün",
+    "examples": ["I work every day.", "Her gün çalışıyorum."]
+  },
+  {
+    "id": "most",
+    "categoryId": "top100",
+    "english": "most",
+    "turkish": "çoğu, en çok",
+    "examples": ["Most people like coffee.", "Çoğu insan kahve sever."]
+  },
+  {
+    "id": "us",
+    "categoryId": "top100",
+    "english": "us",
+    "turkish": "bizi, bize",
+    "examples": ["They help us.", "Bize yardım ediyorlar."]
+  }
+]
+
